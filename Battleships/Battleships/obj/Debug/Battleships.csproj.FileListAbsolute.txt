@@ -1,0 +1,20 @@
+N:\Computer Science\Visual C~ programs\Battleships\Battleships\bin\Debug\Battleships.exe.config
+N:\Computer Science\Visual C~ programs\Battleships\Battleships\bin\Debug\Battleships.exe
+N:\Computer Science\Visual C~ programs\Battleships\Battleships\bin\Debug\Battleships.pdb
+N:\Computer Science\Visual C~ programs\Battleships\Battleships\obj\Debug\Battleships.csproj.AssemblyReference.cache
+N:\Computer Science\Visual C~ programs\Battleships\Battleships\obj\Debug\Battleships.Form1.resources
+N:\Computer Science\Visual C~ programs\Battleships\Battleships\obj\Debug\Battleships.Properties.Resources.resources
+N:\Computer Science\Visual C~ programs\Battleships\Battleships\obj\Debug\Battleships.csproj.GenerateResource.cache
+N:\Computer Science\Visual C~ programs\Battleships\Battleships\obj\Debug\Battleships.csproj.CoreCompileInputs.cache
+N:\Computer Science\Visual C~ programs\Battleships\Battleships\obj\Debug\Battleships.exe
+N:\Computer Science\Visual C~ programs\Battleships\Battleships\obj\Debug\Battleships.pdb
+C:\Users\rando\Documents\Code Projects\Battleships\Battleships\Battleships\bin\Debug\Battleships.exe.config
+C:\Users\rando\Documents\Code Projects\Battleships\Battleships\Battleships\bin\Debug\Battleships.exe
+C:\Users\rando\Documents\Code Projects\Battleships\Battleships\Battleships\bin\Debug\Battleships.pdb
+C:\Users\rando\Documents\Code Projects\Battleships\Battleships\Battleships\obj\Debug\Battleships.csproj.AssemblyReference.cache
+C:\Users\rando\Documents\Code Projects\Battleships\Battleships\Battleships\obj\Debug\Battleships.Form1.resources
+C:\Users\rando\Documents\Code Projects\Battleships\Battleships\Battleships\obj\Debug\Battleships.Properties.Resources.resources
+C:\Users\rando\Documents\Code Projects\Battleships\Battleships\Battleships\obj\Debug\Battleships.csproj.GenerateResource.cache
+C:\Users\rando\Documents\Code Projects\Battleships\Battleships\Battleships\obj\Debug\Battleships.csproj.CoreCompileInputs.cache
+C:\Users\rando\Documents\Code Projects\Battleships\Battleships\Battleships\obj\Debug\Battleships.exe
+C:\Users\rando\Documents\Code Projects\Battleships\Battleships\Battleships\obj\Debug\Battleships.pdb
